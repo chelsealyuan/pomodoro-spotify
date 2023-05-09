@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.874c19a1.css",
-    "main.js": "/static/js/main.a3739108.js",
-    "static/js/787.49ee9b05.chunk.js": "/static/js/787.49ee9b05.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.874c19a1.css.map": "/static/css/main.874c19a1.css.map",
-    "main.a3739108.js.map": "/static/js/main.a3739108.js.map",
-    "787.49ee9b05.chunk.js.map": "/static/js/787.49ee9b05.chunk.js.map"
+    "main.css": "/pomodoro-spotify/static/css/main.874c19a1.css",
+    "main.js": "/pomodoro-spotify/static/js/main.52db7925.js",
+    "static/js/787.49ee9b05.chunk.js": "/pomodoro-spotify/static/js/787.49ee9b05.chunk.js",
+    "static/media/logo.svg": "/pomodoro-spotify/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pomodoro-spotify/index.html",
+    "main.874c19a1.css.map": "/pomodoro-spotify/static/css/main.874c19a1.css.map",
+    "main.52db7925.js.map": "/pomodoro-spotify/static/js/main.52db7925.js.map",
+    "787.49ee9b05.chunk.js.map": "/pomodoro-spotify/static/js/787.49ee9b05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.874c19a1.css",
-    "static/js/main.a3739108.js"
+    "static/js/main.52db7925.js"
   ]
 }
